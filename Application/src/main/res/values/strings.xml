@@ -36,8 +36,8 @@
     <string name="secure_connect">CBT - Connect a device (Secure)</string>
     <string name="insecure_connect">CBT - Connect a device (Insecure)</string>
     <string name="discoverable">CBT - Make discoverable</string>
-    <string name="ble_advertise">BLE - Advertise</string>
-    <string name="ble_discover">BLE - Discover</string>
+    <string name="ble_advertise">BLE - Advertise by Peripheral/Server One-dev</string>
+    <string name="ble_discover">BLE - Discover by Central/Client Multi-dev</string>
     <string name="advertising">Advertising</string>
     <string name="title_activity_blediscovering">BLE Discovering</string>
 
